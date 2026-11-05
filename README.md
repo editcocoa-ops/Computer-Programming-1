@@ -18,7 +18,7 @@ Folder Structure:
 
 - 
 Repository Link:
-https://github.com//COS201-Programming-I
+https://github.com/editcocoa-ops/Computer-Programming-1/commits?author=editcocoa-ops/COS201-Programming-I
 How to Run: javac week03/SimpleCalculator.java and java -cp
 
 week03 SimpleCalculator
